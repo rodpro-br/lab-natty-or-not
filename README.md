@@ -19,23 +19,54 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 
 ### Template
 
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Poema da vida diária de um programador .NET
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Nesse desafio de projeto da plataforma DIO, foi pensado em usar uma uma IA generativa para que ela escreva um poema sobre os desafios enfrentados por um programador .NET no seu dia a dia
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Para este projeto, foi utilizado o ChatGPT
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Para a execução do projeto, foi passado o seguinte prompt:
+crie um poema no estilo carlos drummond de andrade sobre os desafios diários de um programador .net
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+```
+No silêncio do código, o programador trilha,
+Linhas de desafio, na tela brilha.
+No vasto universo do .NET a navegar,
+Entre bugs e exceções, a jornada a enfrentar.
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+No loop incessante da rotina diária,
+O programador tece a teia necessária.
+Emaranhado de desafios, como fios entrelaçados,
+No tecer do software, sonhos são criados.
+
+No debugger, qual alquimista moderno,
+Desvenda mistérios, como um eterno inverno.
+Criação de classes, heranças a costurar,
+No vasto mundo binário, a realidade a transformar.
+
+Em cada linha de código, um pensamento,
+No eco dos bits, o talento é fermento.
+Desafios, como enigmas a decifrar,
+No intricado universo, a mente a navegar.
+
+E lá vai o programador, entre as abstrações,
+Desvendando a lógica, em múltiplas direções.
+No paradigma orientado a objetos, a criar,
+Um mundo virtual, onde a realidade há de se espelhar.
+
+Na aridez do deadline, o programador persiste,
+No compilador, a essência do que existe.
+Na complexidade do sistema, a harmonia buscar,
+No .NET, um ecossistema vasto a desbravar.
+
+Assim, entre bugs e linhas de código a fluir,
+O programador enfrenta, sem jamais desistir.
+No aniversário deste código a celebrar,
+Um brinde aos desafios que sempre há de superar.
 ```
 
 ### Exemplos e Insigths
